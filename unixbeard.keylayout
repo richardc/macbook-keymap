@@ -42,7 +42,7 @@
                         <key code="7" output="x" />
                         <key code="8" output="c" />
                         <key code="9" output="v" />
-                        <key code="10" output="&#xA7;" />
+                        <key code="10" output="`" />
                         <key code="11" output="b" />
                         <key code="12" output="q" />
                         <key code="13" output="w" />
@@ -113,16 +113,17 @@
                         <!-- gap, 90 -->
                         <key code="91" output="8" />
                         <key code="92" output="9" />
-                        <!-- gap, 93-95 -->
+                        <!-- gap, 93-94 -->
+                        <key code="95" output="," />
                         <key code="96" output="&#x10;" />
                         <key code="97" output="&#x10;" />
                         <key code="98" output="&#x10;" />
                         <key code="99" output="&#x10;" />
                         <key code="100" output="&#x10;" />
                         <key code="101" output="&#x10;" />
-                        <key code="102" output="&#x10;" />
+                        <key code="102" output=" " />
                         <key code="103" output="&#x10;" />
-                        <key code="104" output="&#x10;" />
+                        <key code="104" output=" " />
                         <key code="105" output="&#x10;" />
                         <key code="106" output="&#x10;" />
                         <key code="107" output="&#x10;" />
@@ -157,7 +158,7 @@
                         <key code="7" output="X" />
                         <key code="8" output="C" />
                         <key code="9" output="V" />
-                        <key code="10" output="&#xB1;" />
+                        <key code="10" output="~" />
                         <key code="11" output="B" />
                         <key code="12" output="Q" />
                         <key code="13" output="W" />
@@ -228,16 +229,17 @@
                         <!-- gap, 90 -->
                         <key code="91" output="8" />
                         <key code="92" output="9" />
-                        <!-- gap, 93-95 -->
+                        <!-- gap, 93-94 -->
+                        <key code="95" output="," />
                         <key code="96" output="&#x10;" />
                         <key code="97" output="&#x10;" />
                         <key code="98" output="&#x10;" />
                         <key code="99" output="&#x10;" />
                         <key code="100" output="&#x10;" />
                         <key code="101" output="&#x10;" />
-                        <key code="102" output="&#x10;" />
+                        <key code="102" output=" " />
                         <key code="103" output="&#x10;" />
-                        <key code="104" output="&#x10;" />
+                        <key code="104" output=" " />
                         <key code="105" output="&#x10;" />
                         <key code="106" output="&#x10;" />
                         <key code="107" output="&#x10;" />
@@ -272,7 +274,7 @@
                         <key code="7" output="X" />
                         <key code="8" output="C" />
                         <key code="9" output="V" />
-                        <key code="10" output="&#xA7;" />
+                        <key code="10" output="`" />
                         <key code="11" output="B" />
                         <key code="12" output="Q" />
                         <key code="13" output="W" />
@@ -355,18 +357,17 @@
                         <key code="90" output="&#x0;" />
                         <key code="91" output="8" />
                         <key code="92" output="9" />
-                        <key code="93" output="&#x0;" />
-                        <key code="94" output="&#x0;" />
-                        <key code="95" output="&#x0;" />
+                        <!-- gap, 93-94 -->
+                        <key code="95" output="," />
                         <key code="96" output="&#x10;" />
                         <key code="97" output="&#x10;" />
                         <key code="98" output="&#x10;" />
                         <key code="99" output="&#x10;" />
                         <key code="100" output="&#x10;" />
                         <key code="101" output="&#x10;" />
-                        <key code="102" output="&#x10;" />
+                        <key code="102" output=" " />
                         <key code="103" output="&#x10;" />
-                        <key code="104" output="&#x10;" />
+                        <key code="104" output=" " />
                         <key code="105" output="&#x10;" />
                         <key code="106" output="&#x10;" />
                         <key code="107" output="&#x10;" />
@@ -416,9 +417,9 @@
                         <key code="99" output="&#x10;" />
                         <key code="100" output="&#x10;" />
                         <key code="101" output="&#x10;" />
-                        <key code="102" output="&#x10;" />
+                        <key code="102" output=" " />
                         <key code="103" output="&#x10;" />
-                        <key code="104" output="&#x10;" />
+                        <key code="104" output=" " />
                         <key code="105" output="&#x10;" />
                         <key code="106" output="&#x10;" />
                         <key code="107" output="&#x10;" />
@@ -468,9 +469,9 @@
                         <key code="99" output="&#x10;" />
                         <key code="100" output="&#x10;" />
                         <key code="101" output="&#x10;" />
-                        <key code="102" output="&#x10;" />
+                        <key code="102" output=" " />
                         <key code="103" output="&#x10;" />
-                        <key code="104" output="&#x10;" />
+                        <key code="104" output=" " />
                         <key code="105" output="&#x10;" />
                         <key code="106" output="&#x10;" />
                         <key code="107" output="&#x10;" />
@@ -520,9 +521,9 @@
                         <key code="99" output="&#x10;" />
                         <key code="100" output="&#x10;" />
                         <key code="101" output="&#x10;" />
-                        <key code="102" output="&#x10;" />
+                        <key code="102" output=" " />
                         <key code="103" output="&#x10;" />
-                        <key code="104" output="&#x10;" />
+                        <key code="104" output=" " />
                         <key code="105" output="&#x10;" />
                         <key code="106" output="&#x10;" />
                         <key code="107" output="&#x10;" />
@@ -635,9 +636,9 @@
                         <key code="99" output="&#x10;" />
                         <key code="100" output="&#x10;" />
                         <key code="101" output="&#x10;" />
-                        <key code="102" output="&#x10;" />
+                        <key code="102" output=" " />
                         <key code="103" output="&#x10;" />
-                        <key code="104" output="&#x10;" />
+                        <key code="104" output=" " />
                         <key code="105" output="&#x10;" />
                         <key code="106" output="&#x10;" />
                         <key code="107" output="&#x10;" />
@@ -726,9 +727,9 @@
                         <key code="99" output="&#x10;" />
                         <key code="100" output="&#x10;" />
                         <key code="101" output="&#x10;" />
-                        <key code="102" output="&#x10;" />
+                        <key code="102" output=" " />
                         <key code="103" output="&#x10;" />
-                        <key code="104" output="&#x10;" />
+                        <key code="104" output=" " />
                         <key code="105" output="&#x10;" />
                         <key code="106" output="&#x10;" />
                         <key code="107" output="&#x10;" />
@@ -753,4 +754,4 @@
                         <key code="126" output="&#x1E;" />
                 </keyMap>
         </keyMapSet>
-</keyboard> 
+</keyboard>
